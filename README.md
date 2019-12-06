@@ -1,21 +1,17 @@
-# Machine-Learning-Practice
-Assignments &amp; mini projects from courses via Coursera
-
-Machine Learning - University of Washington
+Machine Learning Projects via Coursera
 ---
 
-This repo contains lectures and my solution of assignment in [Machine Learning Specialization - Coursera University of Washington](https://www.coursera.org/specializations/machine-learning).
+This repo contains assignments and projects completed in [Machine Learning Specialization - Coursera University of Washington](https://www.coursera.org/specializations/machine-learning) and [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science).
 
 ### Course Overview
 
-| Course | Description |
+|Certification | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Course 1](https://github.com/tuanvu216/coursera-university-of-washington/tree/master/machine_learning/1_machine_learning_foundations) | Machine Learning Foundations |
-| [Course 2](https://github.com/tuanvu216/coursera-university-of-washington/tree/master/machine_learning/2_regression) | Regression |
-| [Course 3](https://github.com/tuanvu216/coursera-university-of-washington/tree/master/machine_learning/3_classification) | Classification |
-| [Course 4](https://github.com/tuanavu/coursera-university-of-washington/tree/master/machine_learning/4_clustering_and_retrieval) | Clustering & Retrieval |
+| [University of Washington - Machine Learning](https://github.com/jdmarti2/Machine-Learning-Practice/tree/master/U-of-Washington) | Machine Learning Foundations |
+| [IBM Data Science](https://github.com/jdmarti2/Machine-Learning-Practice/tree/master/IBM-ML-with-Python) | Data Science has been ranked as one of the hottest professions and the demand for data practitioners is booming. This Professional Certificate from IBM is intended for anyone interested in developing skills and experience to pursue a career in Data Science or Machine Learning. 
+This program consists of 9 courses providing you with latest job-ready skills and techniques covering a wide array of data science topics including: open source tools and libraries, methodologies, Python, databases, SQL, data visualization, data analysis, and machine learning. You will practice hands-on in the IBM Cloud using real data science tools and real-world data sets. 
+It is a myth that to become a data scientist you need a Ph.D. This Professional Certificate is suitable for anyone who has some computer skills and a passion for self-learning. No prior computer science or programming knowledge is necessary. We start small, re-enforce applied learning, and build up to more complex topics. 
+Upon successfully completing these courses you will have done several hands-on assignments and built a portfolio of data science projects to provide you with the confidence to plunge into an exciting profession in Data Science. In addition to earning a Professional Certificate from Coursera, you will also receive a digital Badge from IBM recognizing your proficiency in Data Science. |
 
 
-## License
 
-All Solutions licensed under MIT License. See LICENSE for further details.
